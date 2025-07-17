@@ -1,5 +1,14 @@
-# thee-seeks
-A set of instructions to generate and distribute contextually appropriate affiliative positivity and confidence to AI agents.
+# thee-seeks (Test Project)
+
+This is a test repository for experimenting with feature request workflows and documentation formatting.
+
+## Current Test Components
+
+- Feature request formatting using INVEST criteria
+- Documentation structure testing
+- Process workflow validation
+
+The content in this repository is for testing purposes only and doesn't represent actual product development.
 
 ## Overview
 
